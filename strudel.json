@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/loonskai/algo-garage-demo-samples/main/",
+  "_base": "https://raw.githubusercontent.com/loonskai/livecoding-agent-demo-samples/main/",
   "garage_foley": "drums/garage_foley.wav",
   "garage_hh-1": "drums/garage_hh-1.wav",
   "garage_hh-2": "drums/garage_hh-2.wav",
